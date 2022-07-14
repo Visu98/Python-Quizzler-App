@@ -28,12 +28,12 @@ Quizzler is python base GUI app which provide random general topic questions bas
   <img src="./ss/ss4.png">
   
 NOTE: 💀💀 You can custumize quiz type by https://opentdb.com/api_config.php create api from this site and add that in data.py file in parameters dictionary.
-      for example, https://opentdb.com/api.php?amount=10&category=18&type=boolean, this is api for computer science base test, so for this modify data.py as
-      parameters = {
-        'amount':10,
-        'category':18,
-        'type':'boolean'
-      }
+      for example, https://opentdb.com/api.php?amount=10&category=18&type=boolean, this is api for computer science base test, so for this modify data.py as<br />
+     <p> parameters = {<br />
+        'amount':10,<br />
+        'category':18,<br />
+        'type':'boolean'<br />
+      }</p>
       MAKE SURE IT IS SET IN CORRECT WAY, OTHERWISE YOUR APP WILL CRASH. 💀💀
       
       
